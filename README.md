@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://api.iconify.design/logos:gitlab.svg?color=currentColor) [My Gitlab profile](https://gitlab.com/diego.gomez1)
+
 <!--
 **diegogd/diegogd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
